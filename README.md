@@ -1,4 +1,4 @@
-# Solar GHI Day-Ahead Forecasting Assessment
+# Solar GHI Day-Ahead Forecasting
 
 Expert Data Science Solution for predicting day-ahead Global Horizontal Irradiance (GHI) using historical environmental and irradiance features.
 
